@@ -3,7 +3,8 @@
 This is an API written in Java to control the official Spotify-Client and/or read its state like *current playing song*, *album url*, etc..
 
 ## How to use it
-Other than to mention it is licensed under the [GPL v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.de.html "Licence page") and therefore should mention anywhere that this (my) API was used, you are free to use it modify it or whatever you want.
+Other than to mention it is licensed under the [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.de.html "License page") and 
+therefore should mention anywhere that this (my) API was used, you are free to use it modify it or whatever you want.
 
 ## Requirements
 This API is intended to run on Unix-Like systems, especially Linux. However it should run under OS X or BSD if the 'qdbus'-Command is installed.
