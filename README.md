@@ -4,7 +4,8 @@ This is an API written in Java to control the official Spotify-Client and/or rea
 
 ## How to use it
 Other than to mention it is licensed under the [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.de.html "License page") and 
-therefore should mention anywhere that this (my) API was used, you are free to use it modify it or whatever you want.
+therefore should mention anywhere that this (my) API was used, you are free to use it modify it or whatever you want. Just respect the 
+license.
 
 ## Requirements
 This API is intended to run on Unix-Like systems, especially Linux. However it should run under OS X or BSD if the 'qdbus'-Command is installed.
